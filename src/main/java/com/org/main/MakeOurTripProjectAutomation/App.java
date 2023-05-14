@@ -1,0 +1,13 @@
+package com.org.main.MakeOurTripProjectAutomation;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
